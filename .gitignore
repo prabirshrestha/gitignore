@@ -9,6 +9,7 @@ obj/
 
 # Visual Studio Extensions Ignores
 .vs10x
+*.vs10x
 
 # Resharper Ignores
 _ReSharper.*/
