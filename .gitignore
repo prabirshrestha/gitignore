@@ -1,5 +1,5 @@
 # Visual Studio Ignores
-bin/
+[Bb]in/
 obj/
 
 *.suo
