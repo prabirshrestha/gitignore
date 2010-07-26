@@ -7,6 +7,9 @@ obj/
 
 *.ncb
 
+# Visual Studio Extensions Ignores
+.vs10x
+
 # Resharper Ignores
 _ReSharper.*/
 *.resharper.user
@@ -16,6 +19,7 @@ _ReSharper.*/
 
 # kdiff3 Ignore
 *.orig
+
 
 # Misc Ignores
 Thumbs.db
