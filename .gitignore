@@ -24,6 +24,8 @@ _ReSharper.*/
 # kdiff3 Ignore
 *.orig
 
+# LATEX Ignores
+*.tex.undo
 
 # Misc Ignores
 Thumbs.db
