@@ -29,3 +29,4 @@ _ReSharper.*/
 
 # Misc Ignores
 Thumbs.db
+!libs/*/[Bb]in/
