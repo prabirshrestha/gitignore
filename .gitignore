@@ -5,7 +5,7 @@ obj/
 *.sln.cache
 *.suo
 *.user
-
+*.build.csdef # azure vs ignores
 *.ncb
 
 # Visual Studio Extensions Ignores
