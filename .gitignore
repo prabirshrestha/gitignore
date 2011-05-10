@@ -7,6 +7,7 @@ obj/
 *.user
 *.build.csdef
 *.ncb
+*sln.docstates
 
 # Visual Studio Extensions Ignores
 .vs10x
