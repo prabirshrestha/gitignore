@@ -10,6 +10,8 @@ App_Data/
 *.ncb
 *sln.docstates
 
+*.userprefs # Mono develop
+
 # Visual Studio Extensions Ignores
 .vs10x
 *.vs10x
