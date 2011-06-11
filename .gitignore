@@ -8,7 +8,7 @@ App_Data/
 *.user
 *.build.csdef
 *.ncb
-*sln.docstates
+*.docstates
 
 *.userprefs # Mono develop
 
