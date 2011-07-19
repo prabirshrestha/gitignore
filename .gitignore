@@ -10,6 +10,9 @@ App_Data/
 *.ncb
 *.docstates
 
+*.xap
+!*StatLight.Client.For.*.xap
+
 *.userprefs # Mono develop
 
 # Visual Studio Extensions Ignores
