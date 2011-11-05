@@ -10,6 +10,10 @@ App_Data/
 *.ncb
 *.docstates
 
+# Visual Studio 11+ Unit Test ignores
+*.UTests.ldf
+*.UTests.mdf
+
 *.xap
 !*StatLight.Client.For.*.xap
 
