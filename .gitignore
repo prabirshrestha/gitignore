@@ -17,6 +17,9 @@ App_Data/
 *.xap
 !*StatLight.Client.For.*.xap
 
+# Windows Azure
+csx/
+
 *.userprefs # Mono develop
 
 # Visual Studio Extensions Ignores
