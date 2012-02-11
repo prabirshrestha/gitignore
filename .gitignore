@@ -45,6 +45,9 @@ lint.db
 # LATEX Ignores
 *.tex.undo
 
+# NuGet package folder
+packages/
+
 # Misc Ignores
 Thumbs.db
 !libs/*/[Bb]in/
