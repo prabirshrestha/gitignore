@@ -48,6 +48,9 @@ lint.db
 # NuGet package folder
 packages/
 
+# npm ignore
+npm-debug.log
+
 # Misc Ignores
 Thumbs.db
 !libs/*/[Bb]in/
