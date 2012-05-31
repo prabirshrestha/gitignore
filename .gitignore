@@ -50,6 +50,7 @@ packages/
 
 # npm ignore
 npm-debug.log
+node_modules/
 
 # Misc Ignores
 Thumbs.db
