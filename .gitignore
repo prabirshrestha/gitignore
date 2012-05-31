@@ -45,7 +45,8 @@ lint.db
 # LATEX Ignores
 *.tex.undo
 
-# NuGet package folder
+# NuGet
+NuGet.exe
 packages/
 
 # npm ignore
