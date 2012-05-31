@@ -52,6 +52,9 @@ packages/
 npm-debug.log
 node_modules/
 
+# sublime text
+*.sublime-workspace
+
 # Misc Ignores
 Thumbs.db
 !libs/*/[Bb]in/
