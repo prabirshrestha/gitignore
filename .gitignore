@@ -10,6 +10,9 @@ App_Data/
 *.ncb
 *.docstates
 
+# Mono
+*.Mono.userprefs
+
 # Visual Studio 11+ Unit Test ignores
 *.UTests.ldf
 *.UTests.mdf
