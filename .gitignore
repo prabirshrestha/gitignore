@@ -13,9 +13,10 @@ App_Data/
 # Mono
 *.Mono.userprefs
 
-# Visual Studio 11+ Unit Test ignores
+# Visual Studio Unit Test ignores
 *.UTests.ldf
 *.UTests.mdf
+TestResults/
 
 # Visual Studio Backup & report files from converting an old project file to a newer
 # Visual Studio version. Backup files are not needed, because we have git ;-)
