@@ -27,6 +27,8 @@ UpgradeLog*.XML
 *.xap
 !*StatLight.Client.For.*.xap
 
+*.squishit.debug.js
+
 # Windows Azure
 csx/
 
